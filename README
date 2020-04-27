@@ -1,0 +1,14 @@
+0. reference
+    flask: https://opensource.com/article/18/4/flask
+    postgresql: https://www.robinwieruch.de/postgres-sql-macos-setup
+    
+1. assume installation for
+    conda
+    postgresql
+
+2. to run the app
+    ./run.sh run
+
+3. 
+
+
